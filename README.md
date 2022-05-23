@@ -19,3 +19,9 @@ https://imgur.com/ybC4xRe
 
 test google
 https://imgur.com/TDibsQN
+
+dropdown
+https://imgur.com/aMY5BEV
+
+radio button
+https://imgur.com/l7zFad8
